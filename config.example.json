@@ -1,0 +1,5 @@
+{
+  "webhook": "https://discord.com/api/webhooks/1234567890/ABCDEFGHIJKL",
+  "websites": ["https://example.com", "https://example.org"],
+  "interval": 60000
+}
